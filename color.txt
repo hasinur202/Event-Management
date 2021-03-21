@@ -1,0 +1,27 @@
+menu :  #6002EE (purple)
+	#FF7044 (orange)
+	gradient (#A36DFS, #570BD3)
+
+text :	8A8EAD
+Gradient: EEAC02, FF8731
+
+
+main color : #019AF7 , #FF195A
+main font color : #222222
+paragraph font color : #232323
+
+
+------------Header------------------
+
+
+Event Management System
+
+We are always ready to give you the 
+gift of our best event within your budget
+
+--------------- email ----------------
+Get in Touch
+Subscribe Event & News
+Enter your mail and up to date our 
+news, events and many more.
+
